@@ -1,4 +1,7 @@
-# Deploy Test
+# Deploy test
+
+- 클라우드 서비스를 통해 배포하는 과정을 공부하기 위해 만들어진 저장소입니다.
+- [Vite 배포 관련 저장소](https://github.com/heroyooi/deploy_vite)
 
 ## Netlify
 
@@ -78,3 +81,13 @@ export default {
 ```ts
 import './index.css'
 ```
+
+### Vercel에 배포
+
+- [Vercel - 배포할 목록](https://vercel.com/new)
+
+![vercel 배포 과정 step1](images/vercel1.png "vercel에 배포 과정1")
+![vercel 배포 과정 step2](images/vercel2.png "vercel에 배포 과정2")
+![vercel 배포 과정 step3](images/vercel3.png "vercel에 배포 과정3")
+
+- [Vercel - 배포한 URL](https://deploy-vite.vercel.app/)
